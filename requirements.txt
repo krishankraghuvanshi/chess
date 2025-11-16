@@ -1,0 +1,7 @@
+# Core runtime dependencies for twitchchess (convenience copy at repo root)
+# Note: torch/torchvision may require platform-specific wheels (see https://pytorch.org/get-started/locally)
+python-chess
+flask
+numpy
+torch
+torchvision
